@@ -1,0 +1,1 @@
+"""Anime Info Bot plugins package."""
