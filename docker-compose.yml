@@ -1,0 +1,7 @@
+services:
+  animebot:
+    build: .
+    container_name: anime-info-bot
+    restart: unless-stopped
+    env_file:
+      - .env
